@@ -15,6 +15,7 @@ We also organise the flagship hackathon of NIT Rourkela, [HackNITR](https://hack
 
 We also love to code for the community. Solving problems for our local community is our priority. We have made some awesome projects-
 - [Institute Counselling Services App](https://play.google.com/store/apps/details?id=in.ac.nitrkl.scp.scp) - [`project-avocado`](https://github.com/dscnitrourkela/project-avocado)
+- [Avenue for NITR](https://avenue.nitrkl.in/app) - [`project-elaichi`](https://github.com/dscnitrourkela/project-elaichi) and [`project-dates`](https://github.com/dscnitrourkela/project-dates)
 - [Certificate Generator](https://signit.dscnitrourkela.org/) - [`project-guava`](https://github.com/dscnitrourkela/project-guava)
 - [Custom Profile Picture Generator](https://frame.dscnitrourkela.org/) - [`project-icecream`](https://github.com/dscnitrourkela/project-icecream)
 - [Quiz Platform for AICHE NIT Rourkela](https://github.com/dscnitrourkela/project-maple) - [`project-maple`](https://github.com/dscnitrourkela/project-maple)
