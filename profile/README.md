@@ -14,9 +14,9 @@ To know more about our recent updates, [check this out](https://www.instagram.co
 We also organise the flagship hackathon of NIT Rourkela, [HackNITR](https://hacknitr.tech).
 
 We also love to code for the community. Solving problems for our local community is our priority. We have made some awesome projects and we enourage contributions from everyone-
-- [Institute Counselling Services App](https://play.google.com/store/apps/details?id=in.ac.nitrkl.scp.scp) - [`project-avocado`](https://github.com/dscnitrourkela/project-avocado)
+- [Institute Counselling Services App](https://play.google.com/store/apps/details?id=in.ac.nitrkl.scp.scp) - [`project-avocado`](https://github.com/dscnitrourkela/project-avocado) & [`project-avocado-web`](https://github.com/dscnitrourkela/project-avocado-web)
 - [Avenue for NITR](https://avenue.nitrkl.in/app) - [`project-elaichi`](https://github.com/dscnitrourkela/project-elaichi) & [`project-dates`](https://github.com/dscnitrourkela/project-dates)
-- [Certificate Generator](https://signit.dscnitrourkela.org/) - [`project-guava`](https://github.com/dscnitrourkela/project-guava)
+- [Certificate Generator](https://signit.dscnitrourkela.org/) - [`project-guava`](https://github.com/dscnitrourkela/project-guava) & [`project-guava-web`](https://github.com/dscnitrourkela/project-guava-web)
 - [GDSC NIT Rourkela website](https://dscnitrourkela.org) - [`project-huckleberry`](https://github.com/dscnitrourkela/project-huckleberry)
 - [Custom Profile Picture Generator](https://frame.dscnitrourkela.org/) - [`project-icecream`](https://github.com/dscnitrourkela/project-icecream)
 - [HackNITR Leaderboard](https://github.com/dscnitrourkela/project-kiwi) - [`project-kiwi`](https://github.com/dscnitrourkela/project-kiwi)
