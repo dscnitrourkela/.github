@@ -32,10 +32,8 @@ We also love to code for the community. Solving problems for our local community
 	<a href="https://www.linkedin.com/company/dscnitrourkela/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 	<a href="https://www.facebook.com/dscnitrourkela"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 	<a href="https://www.instagram.com/dscnitrourkela/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></a>
-  <a href="https:bit.ly/NITRDevs"><img src="https://img.icons8.com/color/48/000000/slack-new.png"/></a>
+  <a href="https://bit.ly/NITRDevs"><img src="https://img.icons8.com/color/48/000000/slack-new.png"/></a>
   <a href="https://www.youtube.com/c/DSCNITRourkela"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 	<a href="https://medium.com/dsc-nit-rourkela"><img src="https://img.icons8.com/color/48/000000/medium-monogram.png"/></a>
   <a href="https://twitter.com/dscnitrourkela"><img src="https://img.icons8.com/color/48/000000/twitter-squared.png"/></a>	
 </div>
-
-
