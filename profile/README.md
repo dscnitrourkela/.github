@@ -2,7 +2,7 @@
 <h3><p align="center">Don't code alone. Code for the community</p></h3>
 
 ### 🚀 Who are we?
-[Google Developer Student Clubs, National Institute of Rourkela](https://dscnitrourkela.org/) is a Google Developers program for university students to learn programming skills. The club is open to any student, ranging from novice developers who are just starting, to advanced developers who want to further their skills.
+[Google Developer Student Clubs, National Institute of Technology, Rourkela](https://dscnitrourkela.org/) is a Google Developers program for university students to learn programming skills. The club is open to any student, ranging from novice developers who are just starting, to advanced developers who want to further their skills.
 The club is intended as a space for students to try out new ideas and collaborate to solve mobile and web development problems. 
 
 ---
