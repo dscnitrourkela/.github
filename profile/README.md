@@ -1,13 +1,13 @@
-<h1><p align="center">Google Developer Student Clubs, National Institute of Technology, Rourkela👋</p></h1>
+<h1><p align="center">Google Developer Student Clubs, National Institute of Technology, Rourkela</p></h1>
 <h3><p align="center">Don't code alone. Code for the community</p></h3>
 
-### 🚀 Who are we?
+### Who are we?
 [Google Developer Student Clubs, National Institute of Rourkela](https://dscnitrourkela.org/) is a Google Developers program for university students to learn programming skills. The club is open to any student, ranging from novice developers who are just starting, to advanced developers who want to further their skills.
 The club is intended as a space for students to try out new ideas and collaborate to solve mobile and web development problems. 
 
 ---
 
-### 👀 What we do?
+### What we do?
 GDSC NIT Rourkela has organised a number of workshops, fun events and meetups with students in and around NIT Rourkela to promote learning and developer skills among themselves. 
 To know more about our recent updates, [check this out](https://www.instagram.com/dscnitrourkela).
 
